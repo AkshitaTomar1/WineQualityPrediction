@@ -15,6 +15,10 @@ from src.WineQualityPrediction.entity.config_entity import ModelEvaluationConfig
 from src.WineQualityPrediction.constants import *
 from src.WineQualityPrediction.utils.common import read_yaml,create_directories,save_json
 
+import os
+os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/AkshitaTomar1/WineQualityPrediction.mlflow"
+os.environ["MLFLOW_TRACKING_USERNAME"]="AkshitaTomar1"
+os.environ["MLFLOW_TRACKING_PASSWORD"]="6961ae0d59a6b2f20fb13fa171a9a0e2b2b44f7b"
 
 class ModelEvaluation:
     def __init__(self, config: ModelEvaluationConfig):
