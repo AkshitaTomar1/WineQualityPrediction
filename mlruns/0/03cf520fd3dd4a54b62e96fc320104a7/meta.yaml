@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/VISHU/Desktop/End-to-EndProjects/WineQualityPrediction/mlruns/0/03cf520fd3dd4a54b62e96fc320104a7/artifacts
+end_time: 1737100251563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03cf520fd3dd4a54b62e96fc320104a7
+run_name: awesome-asp-881
+run_uuid: 03cf520fd3dd4a54b62e96fc320104a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737100230961
+status: 3
+tags: []
+user_id: AkshitaTomar1

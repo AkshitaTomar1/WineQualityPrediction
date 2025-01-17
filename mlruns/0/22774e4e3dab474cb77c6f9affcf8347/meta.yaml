@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/VISHU/Desktop/End-to-EndProjects/WineQualityPrediction/mlruns/0/22774e4e3dab474cb77c6f9affcf8347/artifacts
+end_time: 1737129128427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22774e4e3dab474cb77c6f9affcf8347
+run_name: legendary-ant-97
+run_uuid: 22774e4e3dab474cb77c6f9affcf8347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737129104506
+status: 3
+tags: []
+user_id: VISHU

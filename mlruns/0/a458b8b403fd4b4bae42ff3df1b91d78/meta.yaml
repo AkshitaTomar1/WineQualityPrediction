@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/VISHU/Desktop/End-to-EndProjects/WineQualityPrediction/mlruns/0/a458b8b403fd4b4bae42ff3df1b91d78/artifacts
+end_time: 1737126870604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a458b8b403fd4b4bae42ff3df1b91d78
+run_name: valuable-flea-534
+run_uuid: a458b8b403fd4b4bae42ff3df1b91d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737126845172
+status: 3
+tags: []
+user_id: AkshitaTomar1
