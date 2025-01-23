@@ -3,7 +3,7 @@ WORKDIR /app
 COPY . /app
 
 
-RUN pt update -y  && apt install awcli -y
+RUN apt update -y  && apt install awcli -y
 
 RUN apt-get update && pip install -r requirements.txt
 CMD ["python3","app.py"]
